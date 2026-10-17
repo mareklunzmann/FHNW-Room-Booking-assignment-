@@ -6,8 +6,7 @@ The code follows the structure of the lecture's [School IS API](https://github.c
 
 ## Group members
 
-| Member |
-| --- | --- |
+| Members Group A Information Systems |
 | Sarah Huynh |
 | Mark Thommen |
 | Cédric Cathrein Villa |
