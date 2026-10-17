@@ -1,0 +1,3 @@
+# Only needed to run the automated checks, not the application.
+-r requirements.txt
+httpx==0.28.1
