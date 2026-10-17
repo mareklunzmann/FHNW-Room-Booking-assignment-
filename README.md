@@ -4,12 +4,13 @@
 Students reserve a room for a time slot, and anyone can see which rooms are free or booked.
 The code follows the structure of the lecture's [School IS API](https://github.com/DevidMontecchiari/School-IS-api) reference: *Student / Course / Enrolment* becomes *Student / Room / Booking*. All records are fictional.
 
-## Group members and contributions
+## Group members
 
-| Member | Contributions |
+| Member |
 | --- | --- |
-| Mark [surname] | [e.g. ER model and business rules, UML class diagram, API implementation, testing, report chapters 4–5] |
-| Cedric [surname] | [e.g. scope and use cases, JSON examples, Swagger tests and screenshots, report chapters 1–3] |
+| Sarah Huynh |
+| Mark Thommen |
+| Cédric Cathrein Villa |
 
 ## 1. Install the dependencies
 
