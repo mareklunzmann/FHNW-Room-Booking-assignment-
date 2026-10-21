@@ -4,12 +4,22 @@
 Students reserve a room for a time slot, and anyone can see which rooms are free or booked.
 The code follows the structure of the lecture's [School IS API](https://github.com/DevidMontecchiari/School-IS-api) reference: *Student / Course / Enrolment* becomes *Student / Room / Booking*. All records are fictional.
 
-## Group members
+## Group members and contributions
 
-| Members Group A Information Systems |
-| Sarah Huynh |
-| Mark Thommen |
-| Cédric Cathrein Villa |
+| Member | Contributions |
+| --- | --- |
+| Mark [surname] | [e.g. ER model and business rules, UML class diagram, API implementation, testing, report chapters 4–5] |
+| Cedric [surname] | [e.g. scope and use cases, JSON examples, Swagger tests and screenshots, report chapters 1–3] |
+
+## Models
+
+| Model | File |
+| --- | --- |
+| Use-case diagram | [`docs/use_case_diagram.png`](docs/use_case_diagram.png) |
+| ER diagram | `docs/er_diagram.png` [add our Visual Paradigm export] |
+| UML class diagram | `docs/class_diagram.png` [add our Visual Paradigm export] |
+
+![Use-case diagram](docs/use_case_diagram.png)
 
 ## 1. Install the dependencies
 
@@ -104,7 +114,8 @@ tutorial.py             minimal FastAPI example: python run.py tutorial
 objects_demo.py         UML operation -> object -> JSON, without saving: python objects_demo.py
 reset_data.py           restore data/bookings.json from bookings.initial.json
 run.py                  starts the development server
-tests/                  automated behaviour checks
+tests/                  automated behaviour checks (optional)
+docs/                   models: use-case diagram (+ ER and class diagram exports)
 .devcontainer/          Codespaces setup
 ```
 

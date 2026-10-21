@@ -1,0 +1,4 @@
+[
+  {"building_id": "B-OLT", "name": "FHNW Campus Olten", "street": "Von Roll-Strasse", "street_no": "10", "postal_code": "4600", "city": "Olten", "contact_number": "+41 62 957 20 00"},
+  {"building_id": "B-MUT", "name": "FHNW Campus Muttenz", "street": "Hofackerstrasse", "street_no": "30", "postal_code": "4132", "city": "Muttenz", "contact_number": "+41 61 228 50 00"}
+]

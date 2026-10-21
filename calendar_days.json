@@ -1,0 +1,6 @@
+[
+  {"date": "2026-10-14", "weekday": 3, "is_holiday": false},
+  {"date": "2026-10-15", "weekday": 4, "is_holiday": false},
+  {"date": "2026-12-24", "weekday": 4, "is_holiday": true},
+  {"date": "2026-12-25", "weekday": 5, "is_holiday": true}
+]
