@@ -1,0 +1,10 @@
+[
+  {"availability_id": "A-1", "room_id": "R-421", "weekday": 1, "opening_time": "07:00", "closing_time": "21:00"},
+  {"availability_id": "A-2", "room_id": "R-421", "weekday": 2, "opening_time": "07:00", "closing_time": "21:00"},
+  {"availability_id": "A-3", "room_id": "R-421", "weekday": 3, "opening_time": "07:00", "closing_time": "21:00"},
+  {"availability_id": "A-4", "room_id": "R-421", "weekday": 4, "opening_time": "07:00", "closing_time": "21:00"},
+  {"availability_id": "A-5", "room_id": "R-421", "weekday": 5, "opening_time": "07:00", "closing_time": "18:00"},
+  {"availability_id": "A-6", "room_id": "R-422", "weekday": 3, "opening_time": "08:00", "closing_time": "17:00"},
+  {"availability_id": "A-7", "room_id": "R-105", "weekday": 1, "opening_time": "08:00", "closing_time": "20:00"},
+  {"availability_id": "A-8", "room_id": "R-105", "weekday": 3, "opening_time": "08:00", "closing_time": "20:00"}
+]

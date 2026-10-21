@@ -4,22 +4,31 @@
 Students reserve a room for a time slot, and anyone can see which rooms are free or booked.
 The code follows the structure of the lecture's [School IS API](https://github.com/DevidMontecchiari/School-IS-api) reference: *Student / Course / Enrolment* becomes *Student / Room / Booking*. All records are fictional.
 
-## Group members and contributions
+## Group members
 
-| Member | Contributions |
-| --- | --- |
-| Mark [surname] | [e.g. ER model and business rules, UML class diagram, API implementation, testing, report chapters 4–5] |
-| Cedric [surname] | [e.g. scope and use cases, JSON examples, Swagger tests and screenshots, report chapters 1–3] |
+- Cedric
+- Sarah
+- Mark
 
 ## Models
 
 | Model | File |
 | --- | --- |
 | Use-case diagram | [`docs/use_case_diagram.png`](docs/use_case_diagram.png) |
-| ER diagram | `docs/er_diagram.png` [add our Visual Paradigm export] |
-| UML class diagram | `docs/class_diagram.png` [add our Visual Paradigm export] |
+| ER diagram | [`docs/er_diagram.jpg`](docs/er_diagram.jpg) |
+| UML class diagram | [`docs/class_diagram.png`](docs/class_diagram.png) |
+
+### Use-case diagram
 
 ![Use-case diagram](docs/use_case_diagram.png)
+
+### ER diagram
+
+![ER diagram](docs/er_diagram.jpg)
+
+### UML class diagram
+
+![UML class diagram](docs/class_diagram.png)
 
 ## 1. Install the dependencies
 
@@ -115,7 +124,7 @@ objects_demo.py         UML operation -> object -> JSON, without saving: python 
 reset_data.py           restore data/bookings.json from bookings.initial.json
 run.py                  starts the development server
 tests/                  automated behaviour checks (optional)
-docs/                   models: use-case diagram (+ ER and class diagram exports)
+docs/                   models: use-case, ER and class diagram
 .devcontainer/          Codespaces setup
 ```
 

@@ -1,0 +1,5 @@
+[
+  {"room_id": "R-421", "building_id": "B-OLT", "room_name": "Gruppenraum 4.21", "floor": "4", "capacity": 8},
+  {"room_id": "R-422", "building_id": "B-OLT", "room_name": "Gruppenraum 4.22", "floor": "4", "capacity": 4},
+  {"room_id": "R-105", "building_id": "B-MUT", "room_name": "Lernraum 1.05", "floor": "1", "capacity": 12}
+]

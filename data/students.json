@@ -1,0 +1,4 @@
+[
+  {"student_id": "S-100234", "first_name": "Nina", "last_name": "Brunner", "street": "Hauptstrasse", "street_no": "5", "postal_code": "4051", "city": "Basel", "email": "nina.brunner@students.fhnw.ch"},
+  {"student_id": "S-100511", "first_name": "Lea", "last_name": "Meier", "street": "Bahnhofstrasse", "street_no": null, "postal_code": "4600", "city": "Olten", "email": "lea.meier@students.fhnw.ch"}
+]
